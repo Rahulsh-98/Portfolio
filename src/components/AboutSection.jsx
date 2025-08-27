@@ -9,7 +9,7 @@ export default function AboutSection() {
           Full-stack Software Engineer with 3+ years of experience building scalable web applications using AI, cloud-native infrastructure, and DevOps practices.
         </p>
         <p>
-          I'm Raghav Narayan Ramachandran, recently completed my MS in Computer Science at the University of Texas at Arlington at May 2025. I have experience working across both frontend and backend systems, and I focus on building solutions that are both efficient and impactful.
+          I'm Rahul Shankar, recently completed my MS in Computer Science at the University of Texas at Arlington at May 2025. I have experience working across both frontend and backend systems, and I focus on building solutions that are both efficient and impactful.
         </p>
         <p>
           At <strong>NVIT</strong>, I led the full-stack development and delivery of ILMS v1, a cloud-based government platform. The system included biometric face verification, GPS validation, and dashboard modules. I also improved CI/CD workflows using Docker and Bitbucket, which reduced deployment time by 40%.
